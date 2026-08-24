@@ -1,12 +1,25 @@
 # BigBrother
 
-Legacy VB.NET class library.
+VB.NET class library from the Historical Dev archive. This is a historical working copy from Dave Robinson / VaderConsulting, published so the project can be found and understood from GitHub.
 
-**Target:** v3.5
-## Contents
+**Source last updated:** 2010-07-12  
+**Language:** VB.NET  
+**Target:** v3.5  
+**Output:** Library
 
-- `BigBrother.sln`
-- `BigBrother/BigBrother.vbproj`
+## What it is
+
+VB.NET class library from the Historical Dev archive. This is a historical working copy from Dave Robinson / VaderConsulting, published so the project can be found and understood from GitHub.
+
+## Solution structure
+
+| Project | Language | Path |
+|---------|----------|------|
+| `BigBrother` | VB.NET | `BigBrother/BigBrother.vbproj` |
+
+## How to open
+
+Open `BigBrother.sln` in Visual Studio.
 
 ## Attribution and provenance
 
