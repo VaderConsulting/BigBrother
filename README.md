@@ -21,6 +21,10 @@ VB.NET class library from the Historical Dev archive. This is a historical worki
 
 Open `BigBrother.sln` in Visual Studio.
 
+## Requirements
+
+- Visual Studio 2008, .NET Framework 3.5
+
 ## Attribution and provenance
 
 - No third-party source-code attribution markers were identified in assembly/package metadata.
